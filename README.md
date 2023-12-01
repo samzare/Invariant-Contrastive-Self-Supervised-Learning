@@ -1,6 +1,6 @@
 ## MoCo v3 for Self-supervised ResNet and ViT
 
-### Combining risk extrapolation ([REx])(https://arxiv.org/abs/2003.00688) and contrastive infoNCE (MoCo v3) to mitigate biases and confouding features in self-supervised representations
+### Combining risk extrapolation ([REx](https://arxiv.org/abs/2003.00688)) and contrastive infoNCE (MoCo v3) to mitigate biases and confouding features in self-supervised representations
 
 ### Introduction
 This is a PyTorch implementation of [MoCo v3](https://arxiv.org/abs/2104.02057) for self-supervised ResNet and ViT.
